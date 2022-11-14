@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## projects
-- [calorie-calculator](https://elmin-musija.github.io/calorie-calculator/)
-- [tax-calculator](https://elmin-musija.github.io/tax-calculator/)
 - [caesar-cipher](https://elmin-musija.github.io/caesar-cipher/)
+- [calorie-calculator](https://elmin-musija.github.io/calorie-calculator/)
 - [morse-code](https://elmin-musija.github.io/morse-code/)
+- [tax-calculator](https://elmin-musija.github.io/tax-calculator/)
+- [tic-tac-toe](https://elmin-musija.github.io/tic-tac-toe/)
