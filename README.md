@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - [password-generator](https://elmin-musija.github.io/password-generator/)
 - [tax-calculator](https://elmin-musija.github.io/tax-calculator/)
 - [tic-tac-toe](https://elmin-musija.github.io/tic-tac-toe/)
+- [word-clock](https://elmin-musija.github.io/word-clock/)
